@@ -8,7 +8,7 @@ namespace ConsoleApp2
 {
     class Program
     {
-        static void Main(string[] argentos)
+        static void Main(string[] argos)
         {
         }
     }
